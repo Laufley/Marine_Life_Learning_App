@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "46d1859388835c56c631",
-    "url": "/get_kraken/static/css/main.11cf417a.chunk.css"
+    "revision": "310336e1d62c391436b0",
+    "url": "/get_kraken/static/css/main.59150edd.chunk.css"
   },
   {
-    "revision": "46d1859388835c56c631",
-    "url": "/get_kraken/static/js/main.46d18593.chunk.js"
+    "revision": "310336e1d62c391436b0",
+    "url": "/get_kraken/static/js/main.310336e1.chunk.js"
   },
   {
-    "revision": "d8302687734cdd034566",
-    "url": "/get_kraken/static/js/1.d8302687.chunk.js"
+    "revision": "60c6a90bacfac4b67e7f",
+    "url": "/get_kraken/static/js/1.60c6a90b.chunk.js"
   },
   {
-    "revision": "61b6362728fb7fc723c7",
-    "url": "/get_kraken/static/js/2.61b63627.chunk.js"
+    "revision": "18a693ae11df1e4ce51b",
+    "url": "/get_kraken/static/js/2.18a693ae.chunk.js"
   },
   {
-    "revision": "05e1fe1f486f7dde61ee",
-    "url": "/get_kraken/static/js/runtime~main.05e1fe1f.js"
+    "revision": "122ea8a6d53a33ba566e",
+    "url": "/get_kraken/static/js/runtime~main.122ea8a6.js"
   },
   {
     "revision": "94b237297e24d8db708e6aba1932a3fa",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/get_kraken/static/media/beach.71aa622a.jpeg"
   },
   {
-    "revision": "2dabd78bf3e2f2b2663c286146d67890",
+    "revision": "60530d5aeb720b66ffd76cb287a5db27",
     "url": "/get_kraken/index.html"
   }
 ];
