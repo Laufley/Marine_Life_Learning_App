@@ -1,19 +1,19 @@
 {
-  "files": {
-    "main.css": "/marine_learning/static/css/main.bc40bec2.css",
-    "main.js": "/marine_learning/static/js/main.a115dd30.js",
-    "static/js/393.1316086e.chunk.js": "/marine_learning/static/js/393.1316086e.chunk.js",
-    "static/media/kraken.png": "/marine_learning/static/media/kraken.1afadf4ee55c041a69bb.png",
-    "static/media/waves.jpeg": "/marine_learning/static/media/waves.063e3ccd2f41315fba21.jpeg",
-    "static/media/beach.jpeg": "/marine_learning/static/media/beach.cae315614369ed3fdfa8.jpeg",
-    "static/media/logo.svg": "/marine_learning/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/marine_learning/index.html",
-    "main.bc40bec2.css.map": "/marine_learning/static/css/main.bc40bec2.css.map",
-    "main.a115dd30.js.map": "/marine_learning/static/js/main.a115dd30.js.map",
-    "393.1316086e.chunk.js.map": "/marine_learning/static/js/393.1316086e.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.bc40bec2.css",
-    "static/js/main.a115dd30.js"
-  ]
+  "main.css": "/get_kraken/static/css/main.11cf417a.chunk.css",
+  "main.js": "/get_kraken/static/js/main.46d18593.chunk.js",
+  "main.js.map": "/get_kraken/static/js/main.46d18593.chunk.js.map",
+  "static/js/1.d8302687.chunk.js": "/get_kraken/static/js/1.d8302687.chunk.js",
+  "static/js/1.d8302687.chunk.js.map": "/get_kraken/static/js/1.d8302687.chunk.js.map",
+  "static/js/2.61b63627.chunk.js": "/get_kraken/static/js/2.61b63627.chunk.js",
+  "static/js/2.61b63627.chunk.js.map": "/get_kraken/static/js/2.61b63627.chunk.js.map",
+  "runtime~main.js": "/get_kraken/static/js/runtime~main.05e1fe1f.js",
+  "runtime~main.js.map": "/get_kraken/static/js/runtime~main.05e1fe1f.js.map",
+  "static/media/HomePage.css": "/get_kraken/static/media/kraken.94b23729.png",
+  "static/media/logo.svg": "/get_kraken/static/media/logo.06e73328.svg",
+  "static/media/InfoList.css": "/get_kraken/static/media/waves.654a3fff.jpeg",
+  "static/media/Quizz.css": "/get_kraken/static/media/beach.71aa622a.jpeg",
+  "static/css/main.11cf417a.chunk.css.map": "/get_kraken/static/css/main.11cf417a.chunk.css.map",
+  "index.html": "/get_kraken/index.html",
+  "precache-manifest.1c3828e571501daad67f225406e90021.js": "/get_kraken/precache-manifest.1c3828e571501daad67f225406e90021.js",
+  "service-worker.js": "/get_kraken/service-worker.js"
 }
