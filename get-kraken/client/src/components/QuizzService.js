@@ -6,10 +6,14 @@ export const getScoreData = () => {
 }
 
 export const updateScore = (item) => {
-    return (baseURL + item._id, {
-        method: 'PUT',
-        body: JSON.stringify(item),
-        headers: {'Content-Type': 'application/json'}
-    })
-    .then(res => res.json())
+    return new Promise((resolve, reject) => {
+        fetch(baseURL + item._id, {
+            method: 'PUT',
+            body: JSON.stringify(item),
+            headers: {'Content-Type': 'application/json'}
+        })
+        .then(res => res.json())
+        .then(data => resolve(data))
+        .catch(error => reject(error));
+    });
 }

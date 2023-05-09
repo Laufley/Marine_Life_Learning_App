@@ -28,7 +28,6 @@ const HomePage = () => {
                     <li>3.Once all the bubbles are 'done', <b>test your knowledge with a quiz</b></li>
                 </ul>
                 <p>🐠 🐠 There are also links to follow to find out more, and learn how you can get involved! 🐠 🐠 </p>
-                <button id='seed' onClick={() => seed()}>Seed</button>
             </div>
         </section>
 
