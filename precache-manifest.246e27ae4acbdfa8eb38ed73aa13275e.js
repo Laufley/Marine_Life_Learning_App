@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "310336e1d62c391436b0",
+    "revision": "959e4598831bcf6ce7f6",
     "url": "/get_kraken/static/css/main.59150edd.chunk.css"
   },
   {
-    "revision": "310336e1d62c391436b0",
-    "url": "/get_kraken/static/js/main.310336e1.chunk.js"
+    "revision": "959e4598831bcf6ce7f6",
+    "url": "/get_kraken/static/js/main.959e4598.chunk.js"
   },
   {
     "revision": "60c6a90bacfac4b67e7f",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/get_kraken/static/media/beach.71aa622a.jpeg"
   },
   {
-    "revision": "60530d5aeb720b66ffd76cb287a5db27",
+    "revision": "47fcb0887359672d553a61f10aed82ce",
     "url": "/get_kraken/index.html"
   }
 ];

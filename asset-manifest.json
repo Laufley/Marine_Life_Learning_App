@@ -1,7 +1,7 @@
 {
   "main.css": "/get_kraken/static/css/main.59150edd.chunk.css",
-  "main.js": "/get_kraken/static/js/main.310336e1.chunk.js",
-  "main.js.map": "/get_kraken/static/js/main.310336e1.chunk.js.map",
+  "main.js": "/get_kraken/static/js/main.959e4598.chunk.js",
+  "main.js.map": "/get_kraken/static/js/main.959e4598.chunk.js.map",
   "static/js/1.60c6a90b.chunk.js": "/get_kraken/static/js/1.60c6a90b.chunk.js",
   "static/js/1.60c6a90b.chunk.js.map": "/get_kraken/static/js/1.60c6a90b.chunk.js.map",
   "static/js/2.18a693ae.chunk.js": "/get_kraken/static/js/2.18a693ae.chunk.js",
@@ -14,6 +14,6 @@
   "static/media/Quizz.css": "/get_kraken/static/media/beach.71aa622a.jpeg",
   "static/css/main.59150edd.chunk.css.map": "/get_kraken/static/css/main.59150edd.chunk.css.map",
   "index.html": "/get_kraken/index.html",
-  "precache-manifest.1458883dbc99f6e31cfb0a0cf73a15a4.js": "/get_kraken/precache-manifest.1458883dbc99f6e31cfb0a0cf73a15a4.js",
+  "precache-manifest.246e27ae4acbdfa8eb38ed73aa13275e.js": "/get_kraken/precache-manifest.246e27ae4acbdfa8eb38ed73aa13275e.js",
   "service-worker.js": "/get_kraken/service-worker.js"
 }
